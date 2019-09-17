@@ -15,6 +15,7 @@ public class MaiorIdade {
     
     LinkedList<Pessoa> listaPessoas;
     
+    //inicia linkedlist
     public MaiorIdade() {
         this.listaPessoas = new LinkedList<>();
     }
